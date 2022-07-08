@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Machine Learning (and Neural Networks)
 - 🌱 I’m currently learning Django and Other frameworks
 - 💞️ I’m looking to collaborate on ML and Web Dev!!
-- 📫 You can reach me at: 2018meb1264@iitrpr.ac.in
+- 📫 You can reach me at: shashwatbahuguna123@gmail.com
 
 <!---
 shashwatbahuguna/shashwatbahuguna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
